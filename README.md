@@ -18,7 +18,7 @@ Train the MLP using the training set.Use the validation set to monitor the model
 Evaluate the model on the test set to get a final measure of its performance.Analyze metrics like accuracy, precision, recall, and confusion matrix.
 ## Fine-tuning:
 If the model is not performing well, experiment with different architectures, regularization techniques, or optimization algorithms to improve performance.
-## VISUALIXATION
+## VISUALIZATION
 Visualize the training/validation loss and accuracy over epochs to understand the training process. Visualize some misclassified examples to gain insights into potential improvements.
 ## PROGRAM:
 ```python
